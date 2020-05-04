@@ -10,3 +10,4 @@ A place to contain SwiftUI resources - including repos, open source apps, articl
 - [SwiftUI Settings Screen](https://github.com/rudrankriyam/SwiftUI-Settings-Screen)
 - [ActionOver](https://github.com/AndreaMiotto/ActionOver)
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView)
+- [BottomSheet](https://github.com/weitieda/BottomSheet)
