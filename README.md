@@ -5,7 +5,6 @@
 - [AR – Augmented Reality](#ar)
 - [UI – User Interface](#ui)
 
---
 
 # AR
 **Articles**
