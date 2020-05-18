@@ -19,6 +19,7 @@
 - [ActionOver](https://github.com/AndreaMiotto/ActionOver)
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView)
 - [BottomSheet](https://github.com/weitieda/BottomSheet)
+- [SwiftUI Templates](https://github.com/malach1/SwiftUI_Templates)
 
 # Architecture
 **Repos**
