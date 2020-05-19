@@ -21,7 +21,7 @@
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView)
 - [BottomSheet](https://github.com/weitieda/BottomSheet)
 - [SwiftUI Templates](https://github.com/malach1/SwiftUI_Templates)
-– [SwiftUIPager](https://github.com/fermoya/SwiftUIPager)
+- [SwiftUIPager](https://github.com/fermoya/SwiftUIPager)
 
 # Architecture
 **Repos**
